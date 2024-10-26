@@ -1,0 +1,37 @@
+body {
+    background: #202124;
+}
+
+.search-input {
+    width: 443px;
+    line-height: 46px;
+    border: none;
+    border-radius: 23px;
+    display: block;
+    margin: 0px auto 18px auto;
+    background: #4d5156;
+}
+
+.img {
+    display: block;
+    margin: 200px auto 40px auto;
+}
+
+.btn {
+    margin: 18px 4px;
+    background: #303134;
+    color: #e8eaed;
+    border: none;
+    padding: 8px 16px; 
+    border-radius: 4px;
+}  
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.lang {
+    text-align: center;
+    color: #bfbfbf;
+}
